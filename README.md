@@ -16,7 +16,6 @@ It integrates a Python API with Terraform infrastructure as code (IaC) to create
 
 ## Architecture
 ![Architecture Diagram](./architecture.png)  
-*(Diagram exported from Visio and saved as PNG — replace filename as needed.)*  
 
 **High-Level Flow:**
 1. User/API request triggers lab creation.  
