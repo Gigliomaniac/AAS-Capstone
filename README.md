@@ -14,8 +14,6 @@ It integrates a Python API with Terraform infrastructure as code (IaC) to create
 - **Compliance Awareness:** Emphasis on PCI-DSS and secure data handling practices.  
 - **Documentation & Testing:** Includes data-flow diagram (DFD), test logs, and user guides.  
 
-## Architecture
-![Architecture Diagram](./architecture.png)  
 
 **High-Level Flow:**
 1. User/API request triggers lab creation.  
