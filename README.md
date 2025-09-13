@@ -23,7 +23,7 @@ It integrates a Python API with Terraform infrastructure as code (IaC) to create
 5. After a defined period, lab resources are destroyed and cleaned up.  
 
 ## Getting Started
-> ⚠️ **Note:** This is a proof-of-concept project, not production-ready. It was created for academic demonstration and portfolio purposes.  
+> ⚠️ **Note:** This is a proof-of-concept project, not production-ready. It was created for academic demonstration and portfolio purposes. Many and more items are in need of refinement to function at the level imagined.
 
 ### Prerequisites
 - AWS account (Free Tier or sandbox recommended)  
