@@ -30,9 +30,3 @@ It integrates a Python API with Terraform infrastructure as code (IaC) to create
 - Terraform (v1.9+) installed  
 - Python 3.9+  
 
-### Setup
-```bash
-git clone https://github.com/<yourusername>/capstone.git
-cd capstone
-terraform init
-terraform apply
