@@ -1,5 +1,5 @@
 # AAS-Capstone
-A proof-of-concept. Not production ready.  It was created for academic demonstration and portfolio purposes.
+A proof-of-concept. Not production ready.  It was created for academic demonstration and portfolio purposes. The items in the repository are machinations I had a hand in, rather than the entirety of the project. Questions welcome!
 # Cloud Lab Automation Platform (Capstone Project)
 
 ## Overview
