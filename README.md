@@ -10,8 +10,7 @@ It integrates a Python API with Terraform infrastructure as code (IaC) to create
 - **API-Driven Workflow:** Python (`apiREAL.py`) triggers Terraform deployments on demand.  
 - **Infrastructure as Code:** AWS resources defined and deployed through Terraform modules.  
 - **Secure State Management:** Remote backend with S3 (and optional DynamoDB for state locking).  
-- **Role-Based Access:** IAM configuration for ephemeral users and restricted permissions.  
-- **Compliance Awareness:** Emphasis on PCI-DSS and secure data handling practices.  
+- **Role-Based Access:** IAM configuration for ephemeral users and restricted permissions.    
 - **Documentation & Testing:** Includes data-flow diagram (DFD), test logs, and user guides.  
 
 
