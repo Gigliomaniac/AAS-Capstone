@@ -1,0 +1,4 @@
+[2025-05-21 14:21:40] Terraform apply executed successfully for state_key 54e53d7ff364052b.
+[2025-05-21 14:27:08] Terraform destroy completed for state_key 54e53d7ff364052b.
+[2025-05-21 14:29:38] Terraform apply failed: Command '['terraform', 'init', '-reconfigure', '-backend-config=key=labs/2a27cf10ee8be40d/terraform.tfstate']' returned non-zero exit status 1.
+[2025-05-21 14:33:31] Terraform apply failed: Command '['terraform', 'init', '-reconfigure', '-backend-config=key=labs/94c2af5acda87453/terraform.tfstate']' returned non-zero exit status 1.
